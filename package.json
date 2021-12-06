@@ -1,12 +1,26 @@
 {
   "name": "nodejs-clean-template",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2021.12.06",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": {
+    "name": "Matheus Pereira",
+    "url": "https://github.com/mafhper"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulosalvatore/nodejs-clean-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulosalvatore/nodejs-clean-template/issues"
+  },
+  "homepage": "https://github.com/paulosalvatore/nodejs-clean-template#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
